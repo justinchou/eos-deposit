@@ -1,0 +1,25 @@
+{
+  "name": "eos-deposit",
+  "version": "1.0.1",
+  "description": "fetch who transfer eos or eos token for a defined account",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "keywords": [
+    "eos",
+    "deposite"
+  ],
+  "author": "JustinChou <zhou78620051@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.3.2",
+    "mongodb": "^3.1.10",
+    "node-schedule": "^1.3.0",
+    "qs": "^6.5.2"
+  }
+}
